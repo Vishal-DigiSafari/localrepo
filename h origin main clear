@@ -1,0 +1,45 @@
+[33mcommit 328086acb4e415bc2a0d8899cfea7905bf6520b9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 1398be6 54fda2f
+Author: Digisafari-Demo <vishal@digi-safari.com>
+Date:   Tue Oct 22 17:35:21 2024 +0530
+
+    Add both features
+
+[33mcommit 54fda2f9ae4d1a94a451ef54d666ea828ffee0aa[m[33m ([m[1;32mfeature1[m[33m)[m
+Author: Digisafari-Demo <vishal@digi-safari.com>
+Date:   Tue Oct 22 17:27:07 2024 +0530
+
+    Add Dropdown
+
+[33mcommit 1398be6f70abd02ef625c5e0ef129a605a153029[m
+Author: Digisafari-Demo <vishal@digi-safari.com>
+Date:   Tue Oct 22 17:25:31 2024 +0530
+
+    Add button
+
+[33mcommit dd62c58eef22491e0929866f04a9498f88ff6a20[m
+Merge: 29c6f33 8ce8b03
+Author: Vishal-DigiSafari <vishal@digi-safari.com>
+Date:   Tue Oct 22 17:01:19 2024 +0530
+
+    Merge pull request #1 from Vishal-DigiSafari/feature1
+    
+    Add new feature
+
+[33mcommit 8ce8b03a86cefcd55bdd4eee5e6efa8e42ce683b[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Author: Digisafari-Demo <vishal@digi-safari.com>
+Date:   Tue Oct 22 16:34:47 2024 +0530
+
+    Add new feature
+
+[33mcommit 29c6f33fa695a670b01cb404a58219a919b2569b[m
+Author: Digisafari-Demo <vishal@digi-safari.com>
+Date:   Tue Oct 22 15:28:46 2024 +0530
+
+    Fixed readme
+
+[33mcommit a82923eb0ea752029c15d48dd325cf2e2edf0377[m
+Author: Digisafari-Demo <vishal@digi-safari.com>
+Date:   Tue Oct 22 15:00:02 2024 +0530
+
+    Add Initial files
